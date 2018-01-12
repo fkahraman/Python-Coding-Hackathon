@@ -1,1 +1,0 @@
-# Yazilim-Maratonu-Coding-Hackathon
