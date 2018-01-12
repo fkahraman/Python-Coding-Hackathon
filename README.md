@@ -1,1 +1,1 @@
-# Yaz-l-m-Maratonu-Coding-Hackathon
+# Yazilim-Maratonu-Coding-Hackathon
